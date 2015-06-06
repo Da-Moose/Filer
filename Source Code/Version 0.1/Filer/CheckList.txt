@@ -1,0 +1,24 @@
+﻿Checkmarks:
+	☐
+	☑
+	☒
+
+GetFileSize ☑
+ChangeFileExtension (with replace feature) ☑
+ChangeStringExtension ☑
+GetExtension ☑
+GetFileName ☑
+ReadAll ☑
+ReadLines ☑
+Write File ☑
+GetDirectory ☑
+Copy ☑
+Delete ☑
+Replace ☒
+Start (start a program by dir) ☑
+Close (exit program by name) ☑
+GetDrive ☐
+DeleteDirectory ☐
+
+
+FolderSize +++MAYBE+++

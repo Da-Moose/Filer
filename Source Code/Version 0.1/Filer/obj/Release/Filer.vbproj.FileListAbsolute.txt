@@ -1,0 +1,11 @@
+Z:\Silversoft Media\Products\Software\Filer\Filer\bin\Release\Filer.dll
+Z:\Silversoft Media\Products\Software\Filer\Filer\bin\Release\Filer.pdb
+Z:\Silversoft Media\Products\Software\Filer\Filer\bin\Release\Filer.xml
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.Resources.resources
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.vbproj.GenerateResource.Cache
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.dll
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.xml
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.pdb
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.vbprojResolveAssemblyReference.cache
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Interop.IWshRuntimeLibrary.dll
+Z:\Silversoft Media\Products\Software\Filer\Filer\obj\Release\Filer.vbproj.ResolveComReference.cache
