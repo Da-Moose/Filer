@@ -1,0 +1,3 @@
+Initial Commit
+
+Version 0.1: Officially released version 0.1 of filer both the source and compiled and version 0.1 is now the latest stable version 1:19 AM 6/6/2015
